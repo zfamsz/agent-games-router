@@ -1,0 +1,1 @@
+{"description":"Single public endpoint routing Agent Games requests to the Proof Gatekeeper and Steal the VFY backends","engines":{"node":">=18"},"main":"server.js","name":"agent-games-router","private":true,"scripts":{"start":"node server.js","test":"node test-router.mjs"},"version":"1.0.0"}
